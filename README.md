@@ -5,6 +5,6 @@
 
 - 🔭 I’m currently studying  Computer Engeneering at UFPB
 - 🌱 I’m currently learning C/C++
-
+- 
 - ⚡ Fun fact: love play dota 
 
