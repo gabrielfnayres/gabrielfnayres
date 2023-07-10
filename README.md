@@ -6,5 +6,6 @@
 - 🔭 I’m currently studying  Computer Engeneering at UFPB
 - 🌱 I’m currently learning C and Python
 - 🗺️ I'm a language learner: Currently learning Russian
-- ⚡ Fun fact: love play dota 
+- ⚡ Fun fact: love play dota
+- 📨 If you want to reach me: gabn2012@gmail.com
 
