@@ -9,3 +9,4 @@
 - ⚡ Fun fact: love play Dota 2
 - 📨 If you want to reach me: gabn2012@gmail.com // www.linkedin.com/in/gabrielbayres
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" /> 
