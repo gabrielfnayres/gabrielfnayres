@@ -6,7 +6,6 @@
 - 👨‍💻 I'm currently working as Backend Developer Intern at LAVID
 - 🌱 I’m currently learning C++
 - 🗺️ I'm a language learner: Currently learning French
-- ⚡ Fun fact: love play Dota 2
 - 📨 If you want to reach me: gabn2012@gmail.com // www.linkedin.com/in/gabrielbayres
 
 <h2>Languages and tools:</h2>
