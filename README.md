@@ -2,7 +2,7 @@
 
 <h3>New technologies enthusiast</h3>
 
-- 🔭 I’m currently studying  Computer Engeneering at UFPB
+- 🔭 I’m currently studying  Computer Engineering at UFPB
 - 🧠 I'm currently as a Student Member at TAIL - Technology and Artificial Intelligence League
 - 👨‍💻 I'm currently working as Backend Developer and Researcher Intern at LAVID
 - 🌱 I’m currently learning: Ruby on Rails
