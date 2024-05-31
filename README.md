@@ -5,7 +5,7 @@
 - 🔭 I’m currently studying  Computer Engineering at UFPB
 - 🧠 I'm currently as a Student Member at TAIL - Technology and Artificial Intelligence League
 - 👨‍💻 I'm currently working as Backend Developer and Researcher Intern at LAVID
-- 🌱 I’m currently learning: Ruby on Rails
+- 🌱 I’m currently learning: Go
 - 🗺️ I'm a language learner: Currently learning Russian
 - 📨 If you want to reach me: gabn2012@gmail.com // www.linkedin.com/in/gabrielbayres
 
