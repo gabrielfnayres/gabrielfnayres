@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently studying  Computer Engineering at UFPB
 - 🧠 I'm currently as a Student Member at TAIL - Technology and Artificial Intelligence League
-- 👨‍💻 I'm currently working as Software Engineer Intern at LAVID and Researcher at ARIA and University of Pennsylvania 
+- 👨‍💻 I'm currently working as Software Engineer at TRIL and Researcher at ARIA and University of Pennsylvania 
 - 🌱 I’m currently learning: Go
 - 🗺️ I'm a language learner: Currently learning Russian
 - 📨 If you want to reach me: gabn2012@gmail.com // www.linkedin.com/in/gabrielbayres
