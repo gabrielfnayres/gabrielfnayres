@@ -1,5 +1,19 @@
 <h1> Hi there 👋 I'm Gabriel</h1>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielfnayres&layout=compact)
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=gabrielfnayres&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=gabrielfnayres&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=gabrielfnayres&show_icons=true" />
+</picture>
+
 <h3>New technologies enthusiast</h3>
 
 - 🔭 I’m currently studying  Computer Engineering at UFPB
