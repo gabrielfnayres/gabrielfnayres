@@ -31,4 +31,3 @@
 
 ### 🌟 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/gabrielbayres/)
-- [Resume](https://github.com/user-attachments/files/18504745/my_cv_testinho_all-11.pdf)
