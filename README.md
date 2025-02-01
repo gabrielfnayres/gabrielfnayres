@@ -31,3 +31,4 @@
 
 ### 🌟 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/gabrielbayres/)
+- [Portfolio](https://gabrielfnayres.github.io/website/index.html)
