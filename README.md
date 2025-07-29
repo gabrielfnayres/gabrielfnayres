@@ -1,6 +1,5 @@
 <h1> Hi there 👋 I'm Gabriel</h1>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielfnayres&layout=compact)
 
 <picture>
   <source
